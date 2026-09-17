@@ -16,7 +16,6 @@
     web.
     </p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100" height="100">
-</section>
 <article>
     <h2>Marcador <strong>HTML</strong></h2>
     <p>L'HTML s'escriu utilitzant «etiquetes», envoltades per <a href="https://ca.wikipedia.org/wiki/Par%C3%A8ntesi">claus angulars</a>.
@@ -32,5 +31,6 @@
     element generalment té una etiqueta d'inici i una etiqueta de tancament.
     </p>
 </article>
+</section>
     </body>
     </html>
