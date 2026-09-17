@@ -2,7 +2,6 @@
 <html>
 <head>
 </head>
-
 <body>
 <header>
 <h1>El llenguatge HTML</h1>
@@ -24,7 +23,6 @@ i pot incloure o fer referència a codi en un tipus de llenguatge anomenat
 script, el qual pot afectar el comportament del navegadors web i altres
 processadors d'<strong>HTML</strong>.
 </p>
-    
 <p>Els elements són l'estructura bàsica de l'<strong>HTML</strong>. <mark>Els elements tenen dues
 propietats bàsiques: atributs i contingut.</mark> Els atributs i contingut tenen
 certes restriccions perquè es considerin vàlids dins el document <strong>HTML</strong> Un
