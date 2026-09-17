@@ -2,6 +2,7 @@
 <html>
 <head>
 </head>
+<body>
 <h1>El llenguatge HTML</h1>
 <p><strong>HTML</strong>(acrònim d’Hyper Text Markup Language, en català, "llenguatge de
 marcat d'hipertext"), és un llenguatge de marcat que deriva de l'SGML
@@ -24,6 +25,6 @@ certes restriccions perquè es considerin vàlids dins el document <strong>HTML<
 element generalment té una etiqueta d'inici i una etiqueta de tancament.
 
 </p>
-<body>
+
 </body>
 </html>
