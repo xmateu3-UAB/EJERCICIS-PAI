@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -11,7 +11,7 @@ Gràcies a Internet i als navegadors web, s'ha convertit en un dels formats
 més populars que existeixen per a la construcció de documents per a la
 web.
 </p>
-<h2>Marcador <strong>HTML</strong></h1>
+<h2>Marcador <strong>HTML</strong></h2>
 <p>L'HTML s'escriu utilitzant «etiquetes», envoltades per claus angulars.
 L'<strong>HTML</strong> també pot descriure, fins a un cert punt, l'aparença d'un document,
 i pot incloure o fer referència a codi en un tipus de llenguatge anomenat
